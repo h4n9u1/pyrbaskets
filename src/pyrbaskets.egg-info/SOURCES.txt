@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.py
+src/pyrbaskets.egg-info/PKG-INFO
+src/pyrbaskets.egg-info/SOURCES.txt
+src/pyrbaskets.egg-info/dependency_links.txt
+src/pyrbaskets.egg-info/top_level.txt
+src/rbaskets/__init__.py
+src/rbaskets/rbaskets.py

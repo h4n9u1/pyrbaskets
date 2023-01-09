@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: pyrbaskets
+Version: 0.0.1
+Summary: Request Baskets RESTful API Wrapper for Python
+Author: H4N9U1
+Author-email: h4n9u1@h4n9u1.com
+Project-URL: Bug Tracker, 
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operation System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+Request Baskets RESTful API Wrapper for Python
+---
